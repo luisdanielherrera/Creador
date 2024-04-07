@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T19:37:41.674Z" agent="5.0 (Windows)" etag="gMoiBTVu3ZKGgAcIldwB" version="20.8.5" type="github" pages="2"><diagram id="JpVyj_nYgdHtyBlVpCKt" name="Objetivo">1Zddb5swFIZ/DZed+ArpLhuadpM6aVpWbd2dBafgyXCQMQH662cHE2Bus6xqG3oVzuvj2Of1c0JseWHWXHNSpF8wBma5dtxY3qXluk6w9OWHUtpOWfpBJyScxjppEDb0AbRoa7WiMZSTRIHIBC2mYoR5DpGYaIRzrKdp98imqxYkAUPYRISZ6g8ai7RTz93loH8CmqT9yk7wsRvJSJ+sKylTEmM9kry15YUcUXRPWRMCU+b1vnTzrp4Y3W+MQy6OmSASdn57e8YfvCYgxcppbn59O9Ob3RJW6YL1ZkXbOwCxNESHyEWKCeaErQd1xbHKY1DL2DIacm4QCyk6UvwNQrT6dEklUEqpyJgeNUvR1ZVY8QgO7L9HgvAExIE8TaGqZbSANuoaMAPBW5nAgRFBt9PDJ5qhZJ832CwftNP/4bpjuP45pxFF03vGJOjK4zqlAjYF2blRy16bOkjKoqP/njbqJJ62dAtcQHPQBD3q9+S205asR32gpXTUAr324q65hmtXNJ+3Zb5/Ys/6M3u3De4f2eCLWTW4b7h+oYqXlbr2V+ClNK80zmHq8j/ofQlY7b/6+xFYHfcRWoNXo9UxTHkDOKWDvP2p5n9Y9OGd/rpdcNlMolZHz4d6cSTUwaygXhhQhzRiqP7cKa6LPdd2gVyVV/HcfKWdmnLXOznl5ovsff0mB0fi684K38Bw/TvwjOakBxgaWgqqyGVKs0LPWl3Im0ZGBrpnh7Pnvh7OMhyuJ7ux0SXPW/8B</diagram><diagram id="qI07fkIrm_uxWTKnzRM2" name="Persona">jZNLb4MwDMc/DcdJhVTQHQt9bIdJmzppj1tEXBItEBbcAvv0C8MUWDVpJ5KfHT/+Nh5L8mZveSkfjADtBQvReGzjBYEfRkv36Ujbk2gZ9iCzSpDTCA7qCwguiJ6UgGrmiMZoVOUcpqYoIMUZ49aaeu52NHqeteQZXIFDyvU1fVECZU9XQTTyO1CZHDL74W1vyfngTJ1UkgtTTxDbeiyxxmB/ypsEdCfeoEv/bveH9VKYhQL/8+DxCeDcNJ/3rxjvZPTuv23WNxTlzPWJGn6GBqlgbAcVsIMslphrB3x3rNCaD0iMNtaRwhTOMz4qrX8hrlVWuGvqqgTH4zNYVE7fNRlyJUSXJq6lQjiUPO1y1m6bHLPmVAjoGli423XHQ/kuJjQTRArsweSAtnUuZGUr2sd2WDOaTj0ONyQkJ3NlxDitU3aJPCruDiT6cB2H+2Ob/CJs+w0=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2024-04-07T19:37:56.111Z" agent="5.0 (Windows)" etag="f739xeuLskgUXsZO8O1j" version="20.8.5" type="github" pages="2">
+  <diagram id="JpVyj_nYgdHtyBlVpCKt" name="Objetivo">
+    <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tgl8UU-rz3x6apB1xLZR-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tgl8UU-rz3x6apB1xLZR-1" target="tgl8UU-rz3x6apB1xLZR-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tgl8UU-rz3x6apB1xLZR-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="420" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tgl8UU-rz3x6apB1xLZR-2" value="Fin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="420" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tgl8UU-rz3x6apB1xLZR-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tgl8UU-rz3x6apB1xLZR-4" target="tgl8UU-rz3x6apB1xLZR-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tgl8UU-rz3x6apB1xLZR-4" value="Aparece Personas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tgl8UU-rz3x6apB1xLZR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tgl8UU-rz3x6apB1xLZR-5" target="tgl8UU-rz3x6apB1xLZR-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tgl8UU-rz3x6apB1xLZR-5" value="Ciclo de personas por turno" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tgl8UU-rz3x6apB1xLZR-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tgl8UU-rz3x6apB1xLZR-6" target="tgl8UU-rz3x6apB1xLZR-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tgl8UU-rz3x6apB1xLZR-6" value="Termina de existir la última persona" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="qI07fkIrm_uxWTKnzRM2" name="Persona">
+    <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PQeevxxqIXtBFh7Z1YDA-1" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="384" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
